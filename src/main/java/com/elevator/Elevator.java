@@ -1,4 +1,4 @@
-package com.template;
+package com.elevator;
 
 public class Elevator {
 
